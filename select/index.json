@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "君のせい (live ver.)",
+  "base_artist": "the peggies",
+  "createdAt": "2025-12-13T18:12:23.954654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君のせい",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/01_君のせい_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君のせい - Live Ver.",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/02_君のせい_-_Live_Ver._the_peggies.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君のせい (live ver.)",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/03_君のせい_(live_ver.)_the_peggies.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君のせい",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/04_君のせい_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君のせい",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/05_君のせい_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君のせい",
+      "artist": "SHE IS SUMMER",
+      "has_synced": false,
+      "path": "select/06_君のせい_SHE_IS_SUMMER.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君のせい (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/07_君のせい_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君のせい - Kiminosei",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/08_君のせい_-_Kiminosei_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君のせい～U knocked my heart～",
+      "artist": "AYUSE KOZUE",
+      "has_synced": false,
+      "path": "select/09_君のせい~U_knocked_my_heart~_AYUSE_KOZUE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君のせい (Remastered 2022) - Kiminosei (Remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/10_君のせい_(Remastered_2022)_-_Kiminosei_(Remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君のせい / Kimi No Sei",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/11_君のせい___Kimi_No_Sei_the_peggies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のせい",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/pl_01_君のせい_the_peggies.txt"
+    }
+  ]
+}
